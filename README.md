@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.codechef.com/users/noble_feat_59" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="noble_feat_59" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/anamka_tiwari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="noble_feat_59" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anamikaxo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anamikaxo" height="30" width="40" /></a>
 </p>
 
